@@ -1,3 +1,3 @@
 {
- "id":"./", "name":"Permutas de Serviço Militar — DBM 1/18", "short_name":"Permutas DBM 1/18", "description":"Solicitações e acompanhamento de permutas de serviço militar", "lang":"pt-BR", "start_url":"./", "scope":"./", "display":"standalone", "background_color":"#f2f6fc", "theme_color":"#0b2747", "icons":[{"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
+ "id":"./", "name":"Permutas DBM 1/18", "short_name":"Permutas DBM 1/18", "description":"Solicitações e acompanhamento de permutas de serviço militar", "lang":"pt-BR", "start_url":"./", "scope":"./", "display":"standalone", "background_color":"#f2f6fc", "theme_color":"#0b2747", "icons":[{"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]
 }
